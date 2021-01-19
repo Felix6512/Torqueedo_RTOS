@@ -1,0 +1,14 @@
+main.c:110:6:HAL_UART_RxCpltCallback	16	static
+main.c:148:5:main	32	static
+main.c:272:6:SystemClock_Config	200	static
+main.c:331:13:MX_TIM2_Init	48	static
+main.c:383:13:MX_USART1_UART_Init	8	static
+main.c:418:13:MX_USART2_UART_Init	8	static
+main.c:453:13:MX_USART3_UART_Init	8	static
+main.c:486:13:MX_DMA_Init	16	static
+main.c:507:13:MX_GPIO_Init	24	static
+main.c:528:6:StartDefaultTask	16	static
+main.c:546:6:Start_UART1_to_Queue	16	static
+main.c:568:6:StartQueue_to_Motor	40	static
+main.c:605:6:HAL_TIM_PeriodElapsedCallback	24	static
+main.c:638:6:Error_Handler	4	static,ignoring_inline_asm
